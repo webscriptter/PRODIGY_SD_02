@@ -18,9 +18,7 @@ Enhance your programming skills by exploring the source code.
 Clone or download the repository.
 Explore the Java-based source code.
 Run the game in your preferred Java development environment.
-👥 Contributions:
-This project is open source and welcomes contributions. Feel free to fork the repository, make improvements, and submit a pull request. Let's make this game even more exciting together!
 
-Challenge yourself with the Random Number Guessing Game, have fun guessing, and learn from the experience. Happy gaming and coding!
 
-#Java #GameDevelopment #GuessingGame #OpenSource #CodingChallenge
+
+
